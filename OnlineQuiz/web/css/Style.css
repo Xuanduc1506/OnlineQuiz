@@ -1,0 +1,168 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 17, 2021, 10:01:02 AM
+    Author     : Admin
+*/
+.backGround{
+    background-image: url(../img/bg.jpg);
+    width: 100%;
+    height: auto;
+    text-align:center;
+}
+
+.body{
+    display: inline-block;
+    height: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.content{
+    background-image: url(../img/body.png);
+    height: auto;
+
+}
+.detail b{
+    padding-top: 30px;
+    float: left;
+    padding-left: 58px;
+}
+
+.detail form{
+    padding-top: 40px;
+    margin-left: -346px;
+    padding-bottom: 40px;
+}
+
+.username{
+    color: #53705b;
+    padding-top: 30px;
+    padding-left: 9px;
+}
+
+.password{
+    padding-left: 9px;
+    color: #53705b;
+}
+.password input {
+    margin-left: 11px;
+}
+
+.detail a{
+    text-decoration: none;
+    color: #53705b;
+}
+#register{
+    padding-top: 100px;
+}
+#Login{
+    padding-top: 100px;
+}
+
+
+.title{
+    padding-top: 30px;
+    float: left;
+    padding-left: 58px;
+
+}
+.titleManage{
+    padding-top: 30px;
+    margin-left: -583px;
+    padding-left: 58px;
+
+}
+
+.question{
+    margin-left: -46px;
+}
+
+.totaloption input{
+    margin-left: -134px;
+    width:  49px;
+}
+.startButton{
+    padding-left: 346px;
+}
+.titleCountdown{
+    padding-top: 50px;
+}
+
+.question span{
+    margin-left: -490px;
+}
+
+.option{
+    margin-left: -454px;
+}
+.pagger a{
+    display: inline-block;
+    background: #005598;
+    color: #fff;
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.pagger a.active{
+    display: inline-block;
+    background: #737373;
+    color: #ffft;
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.result {
+    padding-top: 10px;
+    margin-left: 20px;
+    display: flex;
+}
+.pass{
+    color: blue;
+}
+.notPass{
+    color: red;
+}
+.result p{
+    color: blue;
+}
+.Register{
+    display: flex;
+    margin-left: 400px;
+}
+.text{
+    margin-left: 30px;
+}
+
+.text select{
+ width: 167px;                                              
+}
+.titleQuiz{
+    padding-top: 30px;
+    display: flex;
+}
+th,td{
+    padding-left: 16px;
+}
+
+th{
+    width: 84%;
+    color: blue;
+}
+th,td{
+    text-align: left;
+}
+.next{
+    margin-left: 332px;
+}
+.prevous{
+    margin-left: 300px;
+}
